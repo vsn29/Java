@@ -1,0 +1,27 @@
+package com.OopsConcept;
+
+//Overloading : If a class has multiple methods having same name but different in parameters,
+//              it is known as Method Overloading.
+// Advantage: If we have to perform only one operation,having same name of the methods increases 
+//            the readability of the program.
+
+//Example 1 : Overloading– Difference in data type of parameters
+
+// a)In this example, method disp() is overloaded based on the data type of parameters – 
+// b)We have two methods with the name disp(), one with parameter of char type and
+//   another method with the parameter of int type.
+
+public class DisplayOverloading {
+	
+	//Method with 1 argument of type char
+	public void disp(char c)
+	{
+		System.out.println(c); //print the Character
+	}
+	
+	//Method with 1 parameter with different in Data Type of parameter
+    public void \disp(int c){
+    
+    	System.out.println(c);// Prints the Integer value
+    }
+}

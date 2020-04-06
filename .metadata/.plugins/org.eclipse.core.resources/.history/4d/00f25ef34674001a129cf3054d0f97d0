@@ -1,0 +1,14 @@
+package com.OopsConcept;
+
+//Class to test Multiple Inheritance in java
+public class C extends A,B{ //suppose if it were  
+
+	//Main Method
+	public static void main(String args[]) {
+		C obj = new C();
+		obj.msg();// Now which msg() method would be invoked?
+	}
+}
+
+
+//Gives the compile time error

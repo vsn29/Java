@@ -1,0 +1,15 @@
+package com.OopsConcept;
+
+//Class to test the Single Inheritance
+public class TestSingleInheritance {
+
+	// Main method
+	public static void main(String args[]) {
+		
+		//Creating an instance of a child class Dog1
+		Dog1 d = new Dog1();
+		d.bark();
+		d.eat();
+
+	}
+}

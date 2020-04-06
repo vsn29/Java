@@ -1,0 +1,11 @@
+package com.OopsConcept;
+
+public class TestMultipleInheritance {
+
+	public static void main(String args[]){  
+		Pupply d=new Puppy();  
+		d.weep();  
+		d.bark();  
+		d.eat();
+
+}

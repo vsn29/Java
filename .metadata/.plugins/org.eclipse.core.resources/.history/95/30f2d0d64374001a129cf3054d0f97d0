@@ -1,0 +1,10 @@
+package com.OopsConcept;
+
+//Child class which is dervied from Child class
+public class Puppy extends Dog2 {
+
+	void weep() {
+		System.out.println("weeping...");
+	}
+
+}

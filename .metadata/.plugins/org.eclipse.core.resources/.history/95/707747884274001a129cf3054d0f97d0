@@ -1,0 +1,16 @@
+package com.OopsConcept;
+//Single Inheritance: When a class inherits another class, it is known as a single inheritance. 
+
+// Example: In the example given below, Dog class inherits the Animal class, 
+//          so there is the single inheritance.
+//
+
+//Parent Class
+public class Animal {
+	
+	//method
+	void eat() {
+		System.out.println("eating...");
+	}
+
+}

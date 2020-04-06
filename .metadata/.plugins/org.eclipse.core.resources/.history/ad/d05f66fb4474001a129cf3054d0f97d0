@@ -1,0 +1,10 @@
+package com.OopsConcept;
+
+//Another Child class Cat derived from a Animal3 Parent Class
+public class Cat extends Animal3 {
+
+	void meow() {
+		System.out.println("meowing...");
+	}
+
+}

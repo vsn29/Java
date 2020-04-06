@@ -1,0 +1,18 @@
+package com.OopsConcept;
+
+public class Main {
+	
+	
+	public static void main(String[] args) {
+		
+		// Creating object Of Class Company
+		Company c = new Company("Vija");
+		//Reference c1 pointing to the same object c
+		Company c1 = c;
+		
+		
+		
+		
+	}
+
+}

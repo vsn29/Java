@@ -1,0 +1,22 @@
+package com.OopsConcept;
+
+
+// Example : Method Overriding 
+
+////Creating a child class  
+public class Labrador extends Dog {
+
+	// Overriding method
+	public void bark() {
+		System.out.println("Dog is barking");
+	}
+
+	public static void main(String args[]) {
+		
+	  //creating an instance of child class  
+		Dog obj = new Dog();
+		
+		  //calling the method with child class instance  
+		obj.bark();
+	}
+}

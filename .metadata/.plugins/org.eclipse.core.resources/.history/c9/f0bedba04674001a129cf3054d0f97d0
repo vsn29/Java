@@ -1,0 +1,9 @@
+package com.OopsConcept;
+
+public class C {
+
+	public static void main(String args[]){  
+		   C obj=new C();  
+		   obj.msg();//Now which msg() method would be invoked?  
+}
+}

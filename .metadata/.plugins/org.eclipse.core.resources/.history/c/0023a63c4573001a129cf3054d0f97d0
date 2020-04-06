@@ -1,0 +1,12 @@
+package com.OopsConcept;
+
+public class MainTest2 {
+	
+	public static void main(String args[])
+	   {
+	       DisplayOverloading2 obj = new DisplayOverloading2();
+	       obj.disp('x', 51 );
+	       obj.disp(52, 'y');
+	   }
+
+}

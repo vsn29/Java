@@ -1,0 +1,9 @@
+package com.OopsConcept;
+
+public class Cat extends Animal3 {
+
+	void meow() {
+		System.out.println("meowing...");
+	}
+
+}

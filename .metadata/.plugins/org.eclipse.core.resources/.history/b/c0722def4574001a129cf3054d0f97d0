@@ -1,0 +1,7 @@
+package com.OopsConcept;
+//Why multiple inheritance is not supported in java?
+
+public class A {
+	
+
+}

@@ -1,0 +1,15 @@
+package com.OopsConcept;
+
+//Class to test the multiple inheritance in java
+public class TestMultipleInheritance {
+
+	//Main method
+	public static void main(String args[]){  
+		//Creating an instance of Class Puppy
+		Puppy d=new Puppy();  
+		d.weep();  
+		d.bark();  
+		d.eat();
+
+}
+}

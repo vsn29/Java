@@ -1,0 +1,15 @@
+package com.OopsConcept;
+
+//Example3: Overloading – Sequence of data type of arguments
+public class MainTest2 {
+	
+	//Main method to test Method Overloading
+	public static void main(String args[])
+	   {
+		//Creating Instance of the class DisplayOverloading2
+	       DisplayOverloading2 obj = new DisplayOverloading2();
+	       obj.disp('x', 51 );
+	       obj.disp(52, 'y');
+	   }
+
+}

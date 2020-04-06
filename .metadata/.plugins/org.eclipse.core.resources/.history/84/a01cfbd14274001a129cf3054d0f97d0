@@ -1,0 +1,10 @@
+package com.OopsConcept;
+
+//Child Class Dog1 which is extending Parent class Animal
+public class Dog1 extends Animal{
+
+	void bark() {
+		System.out.println("barking...");
+	}
+
+}

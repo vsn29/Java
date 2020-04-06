@@ -1,0 +1,24 @@
+package com.OopsConcept;
+//Method Overriding 
+
+//Java Program to demonstrate why we need method overriding  
+//Here, we are calling the method of parent class with child  
+//class object.  
+
+////Creating a child class  
+public class Labrador extends Dog {
+
+	// Overriding method
+	public void bark() {
+		System.out.println("Dog is barking"); //prints the statement
+	}
+
+	public static void main(String args[]) {
+		
+	  //creating an instance of child class  
+		Dog obj = new Dog();
+		
+		  //calling the method with child class instance  
+		obj.bark();
+	}
+}

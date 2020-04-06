@@ -1,0 +1,11 @@
+package com.OopsConcept;
+
+//Example to depict why the Multiple Inheritance is not supported in Java
+
+public class B {
+
+	void msg() {
+		System.out.println("Welcome");
+	}
+
+}

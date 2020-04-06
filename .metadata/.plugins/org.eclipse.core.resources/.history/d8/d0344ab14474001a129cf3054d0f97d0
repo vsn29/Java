@@ -1,0 +1,10 @@
+package com.OopsConcept;
+
+public class Dog3 extends Animal3 {
+
+	//Method
+	void bark() {
+		System.out.println("barking...");
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.OopsConcept;
+
+public class Programmer extends Employee {
+
+	int bonus = 10000;
+
+	public static void main(String args[]) {
+		//Creating an instance of a Child class Programmer
+		Programmer p = new Programmer();
+	   //Printing the values 
+		System.out.println("Programmer salary is:"  + p.salary);
+		System.out.println("Bonus of Programmer is:"  + p.bonus);
+	}
+
+}

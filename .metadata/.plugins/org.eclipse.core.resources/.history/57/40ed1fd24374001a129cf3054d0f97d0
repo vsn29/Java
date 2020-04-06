@@ -1,0 +1,9 @@
+package com.OopsConcept;
+
+public class Puppy extends Dog2 {
+
+	void weep() {
+		System.out.println("weeping...");
+	}
+
+}

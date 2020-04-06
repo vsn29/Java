@@ -1,0 +1,13 @@
+package com.OopsConcept;
+//Why multiple inheritance is not supported in java?
+//
+// 1) To reduce the complexity and simplify the language, 
+//    multiple inheritance is not supported in java.
+  
+// 2)
+//
+
+public class A {
+	
+
+}

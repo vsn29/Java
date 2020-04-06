@@ -1,0 +1,35 @@
+package com.OopsConcept;
+
+// Inheritance : Inheritance in Java is a mechanism in which one object acquires all 
+//               the properties and behaviors of a parent object.
+//    1)Inheritance represents the IS-A relationship which is also known as a
+//      parent-child relationship.
+//
+//    2)Advantage Of Inheritance:
+//
+//      a)For Method Overriding (so runtime polymorphism can be achieved).
+//  
+//      b)For Code Reusability.
+//
+//    3)The syntax of Java Inheritance:
+//      
+//       class Subclass-name extends Superclass-name
+//       {
+//            methods and fields  
+//    	 }  
+//     The extends keyword indicates that you are making a new class that derives from an existing class.
+//     The meaning of "extends" is to increase the functionality.
+//
+//  Example: Following example depicts the Inheritance:
+//
+//  Note: a) Programmer is the subclass and Employee is the superclass. The relationship between the
+//           two classes is Programmer IS-A Employee. It means that Programmer is a type of Employee.
+//           
+//
+
+public class Employee {
+
+	//intance variable
+	float salary = 40000;
+
+}

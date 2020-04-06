@@ -1,0 +1,11 @@
+package com.OopsConcept;
+
+//Child class derived from a Parent Class Animal
+public class Dog3 extends Animal3 {
+
+	//Method
+	void bark() {
+		System.out.println("barking..."); //Prints the value
+	}
+
+}
