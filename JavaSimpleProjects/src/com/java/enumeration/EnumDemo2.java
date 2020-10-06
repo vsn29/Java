@@ -1,6 +1,6 @@
 package com.java.enumeration;
 
-//Let us see another example of Java enum where we are using 
+//Let us see another example, where we are using 
 //value(), valueOf(), and ordinal() methods of Java enum.
 
 public class EnumDemo2 {
