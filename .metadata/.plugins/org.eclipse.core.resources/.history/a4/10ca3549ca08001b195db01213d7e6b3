@@ -1,0 +1,19 @@
+package com.java.typeCasting;
+// Narrow casting is done by placing the type in parentheses in front of the value.
+
+public class NarrowCastingDemo {
+	
+	private void mian() {
+		// TODO Auto-generated method stub
+		
+		double typeDouble =29.2;
+		
+		int typeInt = (int) typeDouble;
+
+	}
+	
+	
+	
+	
+
+}

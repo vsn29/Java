@@ -1,0 +1,8 @@
+package com.java.typeCasting;
+// Narrow casting is done by placing the type in parentheses in front of the value.
+
+public class NarrowCastingDemo {
+	
+	
+
+}
