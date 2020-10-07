@@ -1,3 +1,3 @@
-GitRepositoriesView.GitDirectories=C\:\\Testing\\Java\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=C\:\\Testing\\Java\\.git;C\:\\Testing\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\Testing\\.git;
 eclipse.preferences.version=1

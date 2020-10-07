@@ -1,0 +1,25 @@
+package com.stringInterviewprograms;
+
+import java.util.Arrays;
+
+public class ArraySecondLargest {
+	
+	public static int getSecondLargestNum(int[] a, int total){
+		
+		Arrays.sort(a);
+		
+		return a[total-2];
+	
+	}
+
+	public static void main(String[] args) {
+		
+		int a[] ={ 1,2,5,6,6,3,2};
+		
+		int b[] ={44,66,99,99,77,33,22,55};
+		
+		System.out.println("Second Largest: "+getSecondLargestNum(a,6));  
+		System.out.println("Second Largest: "+getSecondLargestNum(b,7));  
+	 
+	}
+}

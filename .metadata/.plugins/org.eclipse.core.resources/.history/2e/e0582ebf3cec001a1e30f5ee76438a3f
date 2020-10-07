@@ -1,0 +1,20 @@
+package com.section11;
+
+public class Assignment4 {
+	
+	
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver", "C://TestAutomation//Grid//chromedriver//chromedriver.exe");
+
+
+
+		WebDriver driver = new ChromeDriver();
+
+
+		driver.get("http://the-internet.herokuapp.com/");
+		
+		
+	}
+
+}

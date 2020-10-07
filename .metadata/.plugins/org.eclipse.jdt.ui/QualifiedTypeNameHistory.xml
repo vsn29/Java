@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.OopsConcept.Student"/>
+<fullyQualifiedTypeName name="com.OopsConcept.Student1"/>
+<fullyQualifiedTypeName name="com.OopsConcept.Student2"/>
+<fullyQualifiedTypeName name="com.OopsConcept.InterfaceImplementation"/>
+<fullyQualifiedTypeName name="com.OopsConcept.InterfaceImplementation1"/>
+<fullyQualifiedTypeName name="com.OopsConcept.TestMultipleInheritance1"/>
+<fullyQualifiedTypeName name="com.OopsConcept.TestMultipleInheritance"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="org.testng.util.Strings"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,6 @@
+package com.interviewPrograms;
+// Write a program to find the length of the string without using length() method
+
+public class LengthOfString {
+
+}

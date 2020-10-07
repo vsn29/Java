@@ -1,0 +1,14 @@
+package com.java.enumeration;
+
+public class EnumDemo {
+
+	
+	//Defining the enum inside the class
+	public enum Seasons {WINTER,SUMMER,AUTUMN,SPRING,FALL}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
