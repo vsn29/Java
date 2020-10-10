@@ -1,0 +1,10 @@
+package com.java.StringDefaultMethods;
+
+//contains(): Checks whether a string contains a sequence of characters.
+//===========
+
+// Return Type: boolean
+
+public class Method8 {
+
+}

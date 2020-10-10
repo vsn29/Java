@@ -1,0 +1,7 @@
+package com.java.StringDefaultMethods;
+//compareToIgnoreCase(): compares two strings lexographically, by ignoring lower-case and upper-case differences.
+//======================
+
+public class Method6 {
+
+}

@@ -1,0 +1,6 @@
+package com.java.StringDefaultMethods;
+
+// Method 4: codePointCount(): Returns the number of unicode value in a String
+public class Method4 {
+
+}

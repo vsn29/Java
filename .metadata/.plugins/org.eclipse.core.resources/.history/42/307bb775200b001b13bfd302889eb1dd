@@ -1,0 +1,32 @@
+package com.java.StringDefaultMethods;
+
+// endsWith() : Checks whether the string ends with the specified characters.
+
+// Return Type : boolean
+
+// Note: use startsWith() method to check whether a string start with the specified characters.
+
+//=============
+public class Method11 {
+
+	public static void main(String[] args) {
+
+		String str = "Santoshkumar";
+		
+		// Case 1: check for true condition
+		//Check with endsWith() method
+		System.out.println(str.endsWith("mar"));
+		
+		//Check with startsWith() method
+		System.out.println(str.startsWith("Sa"));
+
+		// Case 2: Check for false condition
+		
+		System.out.println(str.endsWith("p"));
+		
+		
+		
+		
+	}
+
+}

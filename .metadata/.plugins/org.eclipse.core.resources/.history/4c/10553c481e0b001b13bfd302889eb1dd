@@ -1,0 +1,11 @@
+package com.java.StringDefaultMethods;
+
+// copyValueOf(): Returns a String that represents the characters of the char array.
+//================
+// This method returns a new string array and copies the characters into it.
+
+// Syntax: 
+//=========================================================================
+public class Method10 {
+
+}

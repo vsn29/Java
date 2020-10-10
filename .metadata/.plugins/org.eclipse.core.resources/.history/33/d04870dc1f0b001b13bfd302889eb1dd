@@ -1,0 +1,12 @@
+package com.java.StringDefaultMethods;
+
+// endsWith() : Checks whether the string ends with the specified characters.
+
+// Return Type : boolean
+
+// Note: use startsWith() method to check whether a string startst with the specified characters.
+
+//=============
+public class Method11 {
+
+}

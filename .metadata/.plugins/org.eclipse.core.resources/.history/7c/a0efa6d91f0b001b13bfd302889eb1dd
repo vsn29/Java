@@ -1,0 +1,9 @@
+package com.java.StringDefaultMethods;
+
+// endsWith() : Checks whether the string ends with the specified characters.
+
+// Return Type : boolean
+//=============
+public class Method11 {
+
+}

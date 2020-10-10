@@ -1,0 +1,8 @@
+package com.java.StringDefaultMethods;
+
+//concat(): Appends a string to the end of another string.
+//=========
+
+public class Mehtod7 {
+
+}
